@@ -1,0 +1,13 @@
+D:\cursos de C#\trabajo\examen\examen\examen\bin\Debug\netcoreapp3.1\examen.exe
+D:\cursos de C#\trabajo\examen\examen\examen\bin\Debug\netcoreapp3.1\examen.deps.json
+D:\cursos de C#\trabajo\examen\examen\examen\bin\Debug\netcoreapp3.1\examen.runtimeconfig.json
+D:\cursos de C#\trabajo\examen\examen\examen\bin\Debug\netcoreapp3.1\examen.runtimeconfig.dev.json
+D:\cursos de C#\trabajo\examen\examen\examen\bin\Debug\netcoreapp3.1\examen.dll
+D:\cursos de C#\trabajo\examen\examen\examen\bin\Debug\netcoreapp3.1\examen.pdb
+D:\cursos de C#\trabajo\examen\examen\examen\obj\Debug\netcoreapp3.1\examen.csprojAssemblyReference.cache
+D:\cursos de C#\trabajo\examen\examen\examen\obj\Debug\netcoreapp3.1\examen.AssemblyInfoInputs.cache
+D:\cursos de C#\trabajo\examen\examen\examen\obj\Debug\netcoreapp3.1\examen.AssemblyInfo.cs
+D:\cursos de C#\trabajo\examen\examen\examen\obj\Debug\netcoreapp3.1\examen.csproj.CoreCompileInputs.cache
+D:\cursos de C#\trabajo\examen\examen\examen\obj\Debug\netcoreapp3.1\examen.dll
+D:\cursos de C#\trabajo\examen\examen\examen\obj\Debug\netcoreapp3.1\examen.pdb
+D:\cursos de C#\trabajo\examen\examen\examen\obj\Debug\netcoreapp3.1\examen.genruntimeconfig.cache
